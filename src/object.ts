@@ -62,13 +62,13 @@ let user3 : {}
 user3 = [1,2,3,4]// is js, array is object
 console.log(user3);//.[1,2,3,4]
 
-//working good
-let user4 : {
-    name : string,
-    roll : number,
-    isStudent : boolean,
-}
-user4 = [1,2,3,4]
-console.log(user4);//error
+//not working 
+// let user4 : {
+//     name : string,
+//     roll : number,
+//     isStudent : boolean,
+// }
+// user4 = [1,2,3,4]
+// console.log(user4);//error
 
 

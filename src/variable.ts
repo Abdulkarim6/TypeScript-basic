@@ -34,5 +34,5 @@ console.log(userinfo);//56
 
 //not working
 let userinfo2 : string | number;
-userinfo2 = true;//Type 'boolean' is not assignable to type 'string | number'.
-console.log(userinfo2);//error
+// userinfo2 = true;//Type 'boolean' is not assignable to type 'string | number'.
+// console.log(userinfo2);//error
