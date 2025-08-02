@@ -32,7 +32,7 @@ calculation = (a:number, b:number, c:string) =>{
     if(c == "add")
         return a + b;
     else if(c == "sub")
-        return a - b;
+        return a- b;
     else 
         return a * b;
 };
