@@ -1,0 +1,2 @@
+// accessModifireForClass + 
+export {};
