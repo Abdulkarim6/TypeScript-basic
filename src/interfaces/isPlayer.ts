@@ -3,7 +3,7 @@
 export interface isPlayer {
     name : string;
     readonly age : number;
-    isMarried: boolean;
+    isMarried: boolean
 
     play():void;
     getProperties():string;

@@ -20,7 +20,7 @@ class playerClass {
 ;
 const Masrafee = new playerClass("Masrafee", "Bangladesh", 40, true);
 let Sakib;
-Sakib = new playerClass("Sakib", "Bangladesh", 30, true);
+Sakib = new playerClass("Sa kib", "Bangladesh", 30, true);
 const arr3 = [];
 arr3.push(Masrafee);
 arr3.push(Sakib);
